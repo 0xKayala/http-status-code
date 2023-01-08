@@ -3,7 +3,7 @@
     "name": "HTTP Status Code",
     "description": "Shows HTTP response status code as a badge icon.",
     "version": "1.2.0",
-    "homepage_url": "https://github.com/amad/firefox-status-code",
+    "homepage_url": "https://github.com/0xKayala/http-status-code",
     "icons": {
         "48": "icon.svg",
         "96": "icon.svg"
